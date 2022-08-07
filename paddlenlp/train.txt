@@ -1,0 +1,20 @@
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "上海", "start": 0, "end": 2}], "prompt": "出发地"}
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "59块五", "start": 8, "end": 12}], "prompt": "费用"}
+{"content": "2019年1月16日0点06分打车回家，27元", "result_list": [{"text": "2019年1月16日0点06分", "start": 0, "end": 15}], "prompt": "时间"}
+{"content": "5月12日22点36分加班打车回家41元", "result_list": [{"text": "家", "start": 16, "end": 17}], "prompt": "目的地"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "双龙", "start": 3, "end": 5}], "prompt": "目的地"}
+{"content": "5月12日22点36分加班打车回家41元", "result_list": [{"text": "5月12日22点36分", "start": 0, "end": 11}], "prompt": "时间"}
+{"content": "5月12日22点36分加班打车回家41元", "result_list": [], "prompt": "出发地"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "5月27日", "start": 0, "end": 5}], "prompt": "时间"}
+{"content": "2019年1月16日0点06分打车回家，27元", "result_list": [], "prompt": "出发地"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "深大", "start": 0, "end": 2}], "prompt": "出发地"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "4月24号", "start": 9, "end": 14}], "prompt": "时间"}
+{"content": "2019年1月16日0点06分打车回家，27元", "result_list": [{"text": "27", "start": 20, "end": 22}], "prompt": "费用"}
+{"content": "上海到苏州火车票59块五", "result_list": [], "prompt": "时间"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "朝来家园", "start": 16, "end": 20}], "prompt": "目的地"}
+{"content": "上海到苏州火车票59块五", "result_list": [{"text": "苏州", "start": 3, "end": 5}], "prompt": "目的地"}
+{"content": "5月12日22点36分加班打车回家41元", "result_list": [{"text": "41", "start": 17, "end": 19}], "prompt": "费用"}
+{"content": "2019年1月16日0点06分打车回家，27元", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "目的地"}
+{"content": "深大到双龙28块钱4月24号交通费", "result_list": [{"text": "28", "start": 5, "end": 7}], "prompt": "费用"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "立水桥", "start": 12, "end": 15}], "prompt": "出发地"}
+{"content": "5月27日交通费十九元从立水桥到朝来家园", "result_list": [{"text": "十九", "start": 8, "end": 10}], "prompt": "费用"}
