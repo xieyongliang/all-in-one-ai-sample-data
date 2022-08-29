@@ -1,0 +1,1 @@
+{"content": "5月9日交通费29元从北苑到望京搜后", "result_list": [{"text": "北苑", "start": 11, "end": 13}], "prompt": "出发地"}

@@ -1,0 +1,1 @@
+{"content": "从北京飞往上海出差飞机票费150元", "result_list": [{"text": "150", "start": 13, "end": 16}], "prompt": "费用"}

@@ -1,0 +1,1 @@
+{"content": "5月17号晚上10点35分加班打车回家，36块五", "result_list": [{"text": "家", "start": 18, "end": 19}], "prompt": "目的地"}

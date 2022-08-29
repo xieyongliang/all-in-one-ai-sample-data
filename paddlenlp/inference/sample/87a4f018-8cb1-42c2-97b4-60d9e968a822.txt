@@ -1,0 +1,1 @@
+{"content": "上周从北京飞往上海花费一百元", "result_list": [{"text": "一百", "start": 11, "end": 13}], "prompt": "费用"}

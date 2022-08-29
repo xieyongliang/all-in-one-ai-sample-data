@@ -1,0 +1,1 @@
+{"content": "去苏州高铁站七十二元", "result_list": [], "prompt": "出发地"}

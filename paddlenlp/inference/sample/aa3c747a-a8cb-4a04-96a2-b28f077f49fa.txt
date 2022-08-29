@@ -1,0 +1,1 @@
+{"content": "从合肥到北京高铁两百元", "result_list": [{"text": "合肥", "start": 1, "end": 3}], "prompt": "出发地"}

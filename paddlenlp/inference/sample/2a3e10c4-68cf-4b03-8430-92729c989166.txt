@@ -1,0 +1,1 @@
+{"content": "6月10日加班打车回家25元", "result_list": [{"text": "25", "start": 11, "end": 13}], "prompt": "费用"}

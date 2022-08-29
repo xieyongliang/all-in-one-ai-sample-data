@@ -1,0 +1,1 @@
+{"content": "10月16日高铁从杭州到上海南站车次d5414共48元", "result_list": [{"text": "杭州", "start": 9, "end": 11}], "prompt": "出发地"}

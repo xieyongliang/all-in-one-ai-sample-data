@@ -1,0 +1,1 @@
+{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [{"text": "6月7日", "start": 0, "end": 4}], "prompt": "时间"}

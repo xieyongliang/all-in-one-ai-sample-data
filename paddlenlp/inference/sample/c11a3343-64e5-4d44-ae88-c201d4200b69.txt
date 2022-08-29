@@ -1,0 +1,1 @@
+{"content": "月五号凌晨0点08分打车回家三十点五元", "result_list": [{"text": "三十点五", "start": 14, "end": 18}], "prompt": "费用"}

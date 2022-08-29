@@ -1,0 +1,1 @@
+{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [{"text": "北京南站", "start": 5, "end": 9}], "prompt": "出发地"}

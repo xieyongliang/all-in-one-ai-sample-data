@@ -1,0 +1,1 @@
+{"content": "上海到北京机票1320元", "result_list": [], "prompt": "时间"}

@@ -1,0 +1,1 @@
+{"content": "5月31号晚上10点54分打车回家49元", "result_list": [{"text": "49", "start": 17, "end": 19}], "prompt": "费用"}

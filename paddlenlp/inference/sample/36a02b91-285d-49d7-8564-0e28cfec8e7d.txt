@@ -1,0 +1,1 @@
+{"content": "9月28日高铁上海虹桥到合肥南站共192点五元", "result_list": [{"text": "9月28日", "start": 0, "end": 5}], "prompt": "时间"}

@@ -1,0 +1,1 @@
+{"content": "从北京到合肥高铁票6月21日金额1377元", "result_list": [{"text": "1377", "start": 16, "end": 20}], "prompt": "费用"}

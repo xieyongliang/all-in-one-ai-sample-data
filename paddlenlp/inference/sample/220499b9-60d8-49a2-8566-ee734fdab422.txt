@@ -1,0 +1,1 @@
+{"content": "6月2日交通费123元", "result_list": [{"text": "6月2日", "start": 0, "end": 4}], "prompt": "时间"}

@@ -1,0 +1,1 @@
+{"content": "4月16日48元往返机场交通费", "result_list": [{"text": "机场", "start": 10, "end": 12}], "prompt": "目的地"}

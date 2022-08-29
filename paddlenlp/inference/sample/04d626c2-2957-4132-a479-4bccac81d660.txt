@@ -1,0 +1,1 @@
+{"content": "出租车从酒店到公司一共34元时间是10月21日", "result_list": [{"text": "公司", "start": 7, "end": 9}], "prompt": "目的地"}

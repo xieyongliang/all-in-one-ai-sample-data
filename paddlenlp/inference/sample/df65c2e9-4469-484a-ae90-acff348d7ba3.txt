@@ -1,0 +1,1 @@
+{"content": "去苏州高铁站七十二元", "result_list": [{"text": "苏州高铁站", "start": 1, "end": 6}], "prompt": "目的地"}

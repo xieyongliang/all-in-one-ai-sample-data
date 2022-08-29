@@ -1,0 +1,1 @@
+{"content": "2月20号从南山到光明二十元", "result_list": [{"text": "南山", "start": 6, "end": 8}], "prompt": "出发地"}
