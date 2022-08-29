@@ -1,1 +1,0 @@
-{"content": "10月22日从公司到首都机场38元过路费", "result_list": [{"text": "公司", "start": 7, "end": 9}], "prompt": "出发地"}

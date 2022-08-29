@@ -1,1 +1,0 @@
-{"content": "上周末坐动车从北京到上海花费五十块五毛", "result_list": [{"text": "北京", "start": 7, "end": 9}], "prompt": "出发地"}

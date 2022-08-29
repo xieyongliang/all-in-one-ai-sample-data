@@ -1,1 +1,0 @@
-{"content": "从百度大厦到龙泽苑东区打车费二十元", "result_list": [{"text": "二十", "start": 14, "end": 16}], "prompt": "费用"}

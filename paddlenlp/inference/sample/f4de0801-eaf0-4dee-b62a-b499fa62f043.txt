@@ -1,1 +1,0 @@
-{"content": "城市内交通费6月22日佛山至广州93元", "result_list": [{"text": "佛山", "start": 11, "end": 13}], "prompt": "出发地"}

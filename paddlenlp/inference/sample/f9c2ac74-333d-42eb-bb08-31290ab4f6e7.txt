@@ -1,1 +1,0 @@
-{"content": "南京到上海，十月十七号高铁票，一百三十四块五", "result_list": [{"text": "南京", "start": 0, "end": 2}], "prompt": "出发地"}

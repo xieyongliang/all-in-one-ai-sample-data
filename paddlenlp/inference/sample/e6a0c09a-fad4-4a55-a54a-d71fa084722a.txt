@@ -1,1 +1,0 @@
-{"content": "9月23日北京南站到青岛站的高铁票", "result_list": [], "prompt": "费用"}

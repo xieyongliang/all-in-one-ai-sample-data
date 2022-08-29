@@ -1,1 +1,0 @@
-{"content": "上海到北京机票1320元", "result_list": [{"text": "1320", "start": 7, "end": 11}], "prompt": "费用"}

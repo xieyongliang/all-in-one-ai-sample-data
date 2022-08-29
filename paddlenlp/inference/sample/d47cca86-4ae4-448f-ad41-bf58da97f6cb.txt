@@ -1,1 +1,0 @@
-{"content": "6月7日苏州街地铁站到海淀黄庄", "result_list": [{"text": "海淀黄庄", "start": 11, "end": 15}], "prompt": "目的地"}

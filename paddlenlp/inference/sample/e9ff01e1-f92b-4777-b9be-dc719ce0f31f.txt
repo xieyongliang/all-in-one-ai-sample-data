@@ -1,1 +1,0 @@
-{"content": "6月1日交通费68元", "result_list": [], "prompt": "出发地"}

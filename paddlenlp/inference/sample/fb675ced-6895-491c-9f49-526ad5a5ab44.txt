@@ -1,1 +1,0 @@
-{"content": "昨天北京飞上海话费一百元", "result_list": [{"text": "北京", "start": 2, "end": 4}], "prompt": "出发地"}

@@ -1,1 +1,0 @@
-{"content": "城市内交通费7月5日金额114广州至佛山", "result_list": [{"text": "114", "start": 12, "end": 15}], "prompt": "费用"}

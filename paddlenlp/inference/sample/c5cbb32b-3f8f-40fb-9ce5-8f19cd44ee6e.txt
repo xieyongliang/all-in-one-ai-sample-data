@@ -1,1 +1,0 @@
-{"content": "2月4号南山到龙岗龙岗到南山二十元", "result_list": [{"text": "南山", "start": 4, "end": 6}], "prompt": "出发地"}

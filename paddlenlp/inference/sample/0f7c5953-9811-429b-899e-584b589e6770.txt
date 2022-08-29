@@ -1,1 +1,0 @@
-{"content": "上海虹桥高铁到杭州时间是9月24日费用是73元", "result_list": [{"text": "上海虹桥", "start": 0, "end": 4}], "prompt": "出发地"}

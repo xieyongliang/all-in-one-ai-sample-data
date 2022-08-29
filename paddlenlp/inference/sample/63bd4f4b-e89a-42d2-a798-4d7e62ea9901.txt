@@ -1,1 +1,0 @@
-{"content": "去首都机场高速费十四块五", "result_list": [{"text": "首都机场", "start": 1, "end": 5}], "prompt": "目的地"}

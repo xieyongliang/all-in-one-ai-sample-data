@@ -1,1 +1,0 @@
-{"content": "昨天北京飞上海话费一百元", "result_list": [{"text": "昨天", "start": 0, "end": 2}], "prompt": "时间"}
