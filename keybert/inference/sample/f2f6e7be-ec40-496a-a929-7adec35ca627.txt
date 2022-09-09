@@ -1,0 +1,1 @@
+树突细胞(dendriticcells,DCs)是体内功能最强大的专职抗原提呈细胞(antigen-presentingcell,APC),具有免疫原性和耐受性双重作用.DCs的免疫原性体现在作为专职APC对自身抗原异常提呈,引起机体免疫系统紊乱,是参与类风湿关节炎(rheumatoidarthritis,RA)发生的一个重要原因;DCs的耐受性则体现在通过多种机制诱导抗原特异性T细胞消除、无能及调节性T细胞(regulatoryTcells,Tregs)的产生,导致免疫耐受,发挥对RA的调控作用.该文结合该课题组的研究结果对DCs参与RA的发病机制以及在RA病理机制中的调控作用方面进行介绍和评论.

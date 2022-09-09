@@ -1,0 +1,1 @@
+采用第一性原理的平面波赝势法计算Li-Ga-S体系LiGa,Li2S,GaS,Ga2S3和LiGaS2的热力学数据,分析可能发生的化学反应,其中4个化学反应可以生成目标产物LiGaS2.单质直接化合生成LiGaS2的反应自由能变较高,Li2S与Ga2S3化合生成LiGaS2的反应自由能变随温度升高而降低,但体系很难获得Ga2S3,LiGa与S生成LiGaS2和Li2S与GaS化合生成LiGaS2的自由能变较小,且体系生成Li2S,GaS和LiGa的自由能变也较小,由此推断LiGaS2多晶原料可以通过后两个反应获得.

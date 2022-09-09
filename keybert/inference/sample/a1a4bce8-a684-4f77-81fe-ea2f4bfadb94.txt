@@ -1,0 +1,1 @@
+"在基于Context建模的熵编码系统中,为了达到预期的压缩性能,需要通过Context量化来缓解由高阶Context模型所引入的""Context稀释""问题.为此,该文提出一种通过最小化描述长度来实现Context量化(MinimumDescriptionLengthContextQuantization,MDLCQ)的算法.该算法使用描述长度作为评价准则,通过动态规划算法来实现单条件的最优Context量化,然后通过循环迭代来实现多条件的Context量化.该算法不仅可以得到多值信源的优化Context量化器,而且可以自适应地确定各个条件的重要性从而确定模型的最佳阶数.实验结果表明:由MDLCQ算法所得到的Context量化器,可以明显改善熵编码系统的压缩性能."

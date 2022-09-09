@@ -1,0 +1,1 @@
+通过化学还原法制备粒径在45nm左右的纳米银颗粒;然后采用改进的Stober法制备壳层厚度为20nm左右的Ag@SiO2复合颗粒;再采用三步反应在Ag@SiO2颗粒表面包覆铕的配合物Eu(tta)3phen(EuTP);最后将Ag@SiO2@EuTP纳米复合体与聚乙烯吡咯烷酮(PVP)粉末在有机溶剂中共混,通过静电纺丝得到荧光复合纤维试样.TEM和紫外光谱表明,SiO2在纳米Ag颗粒表面成功实现包覆.红外光谱表明,EuTP与Ag@SiO2表面形成化学键合.荧光光谱表明,Ag@SiO2的核壳结构对EuTP有荧光增强效应;相同EuTP配体浓度的PVP/Ag@SiO2@EuTP共混材料比PVP/EuTP的荧光强度增加了近8倍,并且Ag@SiO2@EuTP和EuTP分别与PVP共混均没有改变EuTP的内在荧光发射机制.
